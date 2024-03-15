@@ -7,3 +7,4 @@ In this dataset I pulled information from [Ransomwatch](https://ransomwatch.tele
 The bulk of this project involved data cleaning, constituting 99% of the effort, with only 1% devoted to presentation and analysis. Nonetheless, within this limited scope, I identified Lockbit as the most active ransomware group across both datasets. Interestingly, the analysis revealed a surge in ransomware attacks during the COVID-19 pandemic, likely attributed to increased internet activity as individuals spent more time at home.
 
 # Review
+[Review 1](https://github.com/Thane-Murphy/Udacity-DAND-Ransomware-Occurences/blob/main/Real%20World%20Data%20Wrangling%20Project%202%20Review%201.pdf)
